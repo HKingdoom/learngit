@@ -4,3 +4,4 @@ Git diff.
 Git is a distributed version control system.
 Git tracks changes of files.
 Git push origin master.
+Creating a new branch is quick.
